@@ -1,5 +1,5 @@
 # BITCOIN
-Our AI tool makes Bitcoin transactions faster, more private, cost-effective, and secure. By using data and AI, we improve the entire Bitcoin experience.
+My AI tool makes Bitcoin transactions faster, more private, cost-effective, and secure. By using data and AI, we improve the entire Bitcoin experience.
 
 ## How Data Science and AI Address Bitcoin Challenges
 
