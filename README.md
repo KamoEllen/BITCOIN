@@ -31,20 +31,27 @@ In each of these cases, data science can provide insights derived from large dat
 ## Speed of Transaction Verification:
 
 - Bitcoin transaction data from blockchain explorers.
+- [https://www.kaggle.com/datasets/adilbhatti/bitcoin-and-stock-exchanges]
 - Historical transaction confirmation times and block data.
+  [https://www.kaggle.com/datasets/ellipticco/elliptic-data-set]
 
 ## Lack of Privacy:
 
 - Bitcoin transaction graph data showing inputs and outputs.
+  [https://www.kaggle.com/datasets/adilbhatti/bitcoin-and-stock-exchanges]
 - CoinJoin transaction datasets (if available).
 - Data related to privacy-focused cryptocurrencies.
 
 ## High Fees:
 
 - Historical data on Bitcoin transaction fees and confirmation times.
+  [https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data]
+  [https://www.kaggle.com/datasets/meetnagadia/bitcoin-stock-data-sept-17-2014-august-24-2021]
 - Real-time mempool data and fee estimates.
+  [https://www.kaggle.com/datasets/arslanr369/bitcoin-price-2014-2023]
 
 ## Risk of a 51% Attack:
 
 - Historical blockchain data with block timestamps, sizes, and hash power distribution.
+  [https://www.kaggle.com/datasets/ellipticco/elliptic-data-set]
 - Mining pool information and hash rate distribution data.
